@@ -1,0 +1,14 @@
+#quiz{
+    border:#000 1px solid;
+    padding: 10px 20px 20px 20px;  
+    text-align: justify;  
+}
+.right{
+    text-align: center;
+    background-color: plum;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: orangered;
+}
